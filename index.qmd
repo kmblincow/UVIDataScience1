@@ -1,62 +1,14 @@
 ---
-title: "Title of Your Workshop Session"
+title: "CSC/SCI 230: Data Science 1"
 ---
 
-Date: **Date and time**
-
-Room: **Location**
-
-Instructors: Instructor A, B, C
+Instructor: Kayla Blincow, PhD (aka Kayla Israel)
 
 ------------------------------------------------------------------------
 
-::: callout-note
-## This workshop template
+::: callout-note \# Welcome!
 
-This workshop template contains 4 pages: 
-
-- Home: `index.qmd` (this page)
-
-- About: `about.qmd`
-
-Two content pages
-
-- Page without code: `part_1_prep.qmd`
-
-- Page with R code: `part_2_eda.qmd`
-
-It is straightforward to add more content pages: you need to create a new `.qmd` file (or copy/paste the existing ones), then link the new page inside `_quarto.yml`. 
-:::
-
-
-::: callout-tip
-## Homepage of your workshop
-
-This is the **homepage** `index.qmd` for your workshop, so ideally it should contain some key information such as **time and place, instructors** and information of the course/workshop. 
-
-It should be easy to navigate.
-:::
-
-
-# Welcome!
-
--   The goal of the workshop is to ... (*insert your message*)
--   For example, introduce kep concepts in machine learning, such as regularisation.
--   Workshop material can be found in the workshop [github repository](https://github.com).
-
-#### Learning Objectives
-
-At the end of the tutorial, participants will be able to
-
--   understand key concepts for ... (*insert your message*)
--   For example, training machine learning models such as regularisation.
--   another objective
-
-#### Pre-requisites
-
--   Basic familiarity with R
--   Some other knowledge
-
+This website houses all of the coding exercises and assignments for CSC/SCI 230 Data Science 1. All other course documentation can be found on Brightspace.
 
 # Schedule
 
@@ -66,8 +18,7 @@ At the end of the tutorial, participants will be able to
 It can be useful to include a tabular schedule with links.
 :::
 
-
-|     Time      |                  Topic                   |    Presenter     |
-|:--------------:|:-------------------------------------:|:--------------:|
-| 9:00 - 10:30  | [Session 1: Preparation](part_1_prep.qmd) | Instructor A |
-| 10:45 - 12:00 | [Session 2: Exploratory Analysis](part_2_eda.qmd) | Instructor B, C |
+| Week |    Dates    |                                 Topic                                  |
+|:-----------------:|:-----------------:|:--------------------------------:|
+|  1   | 8/19 - 8/23 | [Intro to Data Science and R](Week1R4DS.qmd) [Homework 1](Week1HW.qmd) |
+|  2   | 8/26 - 8/30 |                        [Homeowrk2](Week2HW.qmd)                        |
