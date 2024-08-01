@@ -7,20 +7,11 @@ format:
 editor: visual
 ---
 
-::: callout-tip
-## About page
+### Course Description
 
-This page contains some elaborated background information about your workshop, or the instructors.
-:::
-
-*For example*: A central problem in machine learning is how to make an algorithm perform well not just on the training data, but also on new inputs. Many strategies in machine learning are explicitly designed to reduce this test error, possibly at the expense of increased training error. These strategies are collectively known as regularisation and they are instrumental for good performance of any kind of prediction or classification model, especially in the context of small data (many features, few samples).
-
-In the hands-on tutorial we will use R to perform an integrated analysis of multi-omics data with penalised regression.
+DATA SCIENCE I. Data Science I provides students with an introduction to the concepts and basic skills needed to understand the role of data in today’s world. The course explores the emergence of the field using the data science workflow as the unifying framework to illustrate the importance of each stage of the workflow, how it contributes to the final report, and how that new information is used. Topics include applications of data science; data ethics; data preparation; data stewardship; analysis, evaluation, communicating results, and best practices. The trade-offs among tools, algorithms, and visualizations are discussed using both effective and ineffective examples. This is a hands-on course, students work with datasets in a peer-peer and near-peer groups.\
+Prerequisites: MAT 140 or MAT 143.
 
 #### Contact
 
-Instructor A: contact
-
-Instructor B: contact
-
-Instructor C: contact
+Kayla Blincow: kayla.israel\@uvi.edu
