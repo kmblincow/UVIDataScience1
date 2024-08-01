@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "CSC/SCI 230: Data Science 1",
     "section": "",
-    "text": "Instructor: Kayla Blincow, PhD (aka Kayla Israel)\n\n\nWelcome!\nThis website houses all of the coding exercises and assignments for CSC/SCI 230 Data Science 1. All other course documentation can be found on Brightspace.\n\n\nSchedule\n\n\n\nWeek\nDates\nMaterials\n\n\n\n\n1\n8/19 - 8/23\nIntro to Data Science and R\nHomework 1\n\n\n2\n8/26 - 8/30\nHomework2\n\n\n3\n9/3 - 9/6\n\n\n\n4\n9/9 - 9/13\n\n\n\n5\n9/16 - 9/20\n\n\n\n6\n9/23 - 9/27\n\n\n\n7\n9/30 - 10/4\n\n\n\n8\n10/7 - 10/11\n\n\n\n9\n10/14 - 10/18\n\n\n\n10\n10/21 - 10/25\n\n\n\n11\n10/28 - 10/31\n\n\n\n12\n11/4 - 11/8\n\n\n\n13\n11/12 - 11/15\n\n\n\n14\n11/18 - 11/22\n\n\n\n15\n11/25 - 11/26"
+    "text": "Instructor: Kayla Blincow, PhD (aka Kayla Israel)\n\n\nWelcome!\nThis website houses all of the coding exercises and assignments for CSC/SCI 230 Data Science 1. All other course documentation can be found on Brightspace.\n\n\nSchedule\n\n\n\nWeek\nDates\nMaterials\n\n\n\n\n\n1\n8/19 - 8/23\nIntro to Data Science and R\nHomework 1\n\n\n\n2\n8/26 - 8/30\nHomework 2\n\n\n\n3\n9/3 - 9/6\n\n\n\n\n4\n9/9 - 9/13\n\n\n\n\n5\n9/16 - 9/20\n\n\n\n\n6\n9/23 - 9/27\n\n\n\n\n7\n9/30 - 10/4\n\n\n\n\n8\n10/7 - 10/11\n\n\n\n\n9\n10/14 - 10/18\n\n\n\n\n10\n10/21 - 10/25\n\n\n\n\n11\n10/28 - 10/31\n\n\n\n\n12\n11/4 - 11/8\n\n\n\n\n13\n11/12 - 11/15\n\n\n\n\n14\n11/18 - 11/22\n\n\n\n\n15\n11/25 - 11/26"
   },
   {
     "objectID": "part_2_eda.html",
@@ -88,6 +88,17 @@
     "crumbs": [
       "Home",
       "Preparation"
+    ]
+  },
+  {
+    "objectID": "Week1HW.html",
+    "href": "Week1HW.html",
+    "title": "Week 1 Homework",
+    "section": "",
+    "text": "Please enable JavaScript to experience the dynamic code cell content on this page.",
+    "crumbs": [
+      "Home",
+      "Week 1 Homework"
     ]
   }
 ]
