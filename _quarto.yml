@@ -17,9 +17,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - Week1R4DS.qmd
       - Week1HW.qmd
-      - Week2HW.qmd
   page-navigation: true
 
 format:
