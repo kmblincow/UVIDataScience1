@@ -18,6 +18,8 @@ website:
     search: true
     contents:
       - Week1R4DS.qmd
+      - Week2HW.qmd
+      - Week3HW.qmd
   page-navigation: true
 
 format:
